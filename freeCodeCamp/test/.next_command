@@ -146,3 +146,6 @@ cd website
 ls --color=auto
 ech hello website
 echo hello website
+touch insdex.html
+rm insdex.html
+touch index.html
