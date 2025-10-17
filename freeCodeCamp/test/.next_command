@@ -102,3 +102,20 @@ pwd
 ls --color=auto
 cd node_modules
 ls --color=auto
+ls --color=auto
+ls --color=auto -1
+ls --color=auto
+ls-1
+ls --color=auto -1
+__vsc_prompt_cmd_original
+pwd -1
+cd ..
+ls --color=auto -1
+cd node_modules
+ls --color=auto
+ls --color=auto -1
+-1
+find
+find -1
+ls --color=auto node_modules -1
+ls --color=auto -l
