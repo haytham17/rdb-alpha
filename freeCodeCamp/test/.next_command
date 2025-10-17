@@ -196,3 +196,5 @@ ls --color=auto
 cd ..
 ls --color=auto
 rm header.png
+ls --color=auto
+rm footer.jpeg
