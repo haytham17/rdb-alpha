@@ -120,3 +120,4 @@ find -1
 ls --color=auto node_modules -1
 ls --color=auto -l
 cd has
+ls --color=auto
