@@ -150,3 +150,4 @@ touch insdex.html
 rm insdex.html
 touch index.html
 touch styles.css
+ls --color=auto
